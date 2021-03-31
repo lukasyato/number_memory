@@ -1,0 +1,12 @@
+c:\users\asus\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\numbermemory.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\numbermemory.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\numbermemory.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\numbermemory.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\numbermemory.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\numbermemory.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\numbermemory\WindowsFormsApplication3\bin\Debug\numbermemory.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\numbermemory\WindowsFormsApplication3\obj\Debug\numbermemory.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\numbermemory\WindowsFormsApplication3\obj\Debug\numbermemory.pdb
